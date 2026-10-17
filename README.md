@@ -1,87 +1,58 @@
-<p align="center"><strong>EN · English</strong> &nbsp; / &nbsp; <a href="./README_RU.md">RU · Русский</a></p>
+<p align="right"><strong>EN</strong> · <a href="./README_RU.md">RU</a></p>
+
+<h1 align="center">He3HaukaX</h1>
+
+<p align="center"><strong>Java Developer · Minecraft Plugins · hPlugin</strong></p>
 
 <p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/header-en-mobile.svg" />
-    <img src="./assets/header-en.svg" width="1200" alt="He3HaukaX — hPlugin" />
-  </picture>
-</p>
-
-<p align="center"><strong>5 years of Java</strong> &nbsp;·&nbsp; <strong>1 year of Python</strong></p>
-
-<p align="center">
-  <a href="https://t.me/he3haukaX"><img src="./assets/contact-en.svg" width="230" alt="Discuss a project" /></a>
-  <a href="https://t.me/hplugin"><img src="./assets/channel-en.svg" width="230" alt="hPlugin releases" /></a>
+  <img src="https://img.shields.io/badge/Java-8%2B-FB9C08?style=for-the-badge&amp;labelColor=0D1117" alt="Java 8+" />
+  <img src="https://img.shields.io/badge/Paper-Folia-FB9C08?style=for-the-badge&amp;labelColor=0D1117" alt="Paper · Folia" />
+  <img src="https://img.shields.io/badge/Maven-Gradle-FB9C08?style=for-the-badge&amp;labelColor=0D1117" alt="Maven · Gradle" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/milestones-en-mobile.svg" />
-    <img src="./assets/milestones-en.svg" width="1200" alt="100+ plugins · 5+ websites · 2+ applications · 3.5K+ Modrinth downloads" />
-  </picture>
+  <strong>5 years of Java · 1 year of Python</strong><br />
+  <a href="https://t.me/he3haukaX">Discuss a project</a> · <a href="https://t.me/hplugin">hPlugin channel</a>
 </p>
 
-## Built for the server, not the template
+I build plugins, server mechanics, staff tools and integrations. My work also includes websites and applications.
 
-I’m **He3HaukaX**, the developer behind **hPlugin**. I build Minecraft plugins, server mechanics, staff tools and integrations. My work also includes websites, applications and a private server fork based on Leaf.
+I started writing plugins because existing solutions lacked the flexibility and functionality I needed. My priorities are **optimization, meaningful customization and features built around each server's requirements**.
 
-I started writing plugins because existing solutions often lacked the flexibility and functionality I needed. **Optimization and meaningful customization are still my main priorities.**
+## Experience & results
 
-**Live-server experience:** previously worked with a server at **around 500 concurrent players**. I now also work with projects in the **100–200 concurrent-player range**, including servers using my published plugins.
+**100+ plugins · 5+ websites · 2+ applications**  
+**3.5K+ downloads on Modrinth**
+
+Previously worked with a server running **around 500 concurrent players**. I now also work with projects in the **100–200 concurrent-player range**, including servers using my published plugins.
 
 ## Selected projects
 
-### [WorldGuardFork ↗](https://github.com/2twofactorauth3-star/WorldGuard-fork-hplugin)
-My public fork of EngineHub’s WorldGuard. Configurable region protection, per-world rules, claim limits, region visualization and optimized region-check caches for Paper and Folia.
+| Project | What it does |
+| :--- | :--- |
+| [**WorldGuardFork**](https://github.com/2twofactorauth3-star/WorldGuard-fork-hplugin) | WorldGuard fork with configurable region protection, claim limits and optimized checks. |
+| [**hAirdrops**](https://spigotmc.ru/resources/hairdrops-1-21-26-x-folia-papi-itemsadder-nexo-mythicmobs-i-mnogo-chego-eschjo-podderzhivaetsja.5262/) | Airdrop and event builder with custom stages, bosses, schematics, schedules and loot. |
+| [**hSocialBotsRewards**](https://spigotmc.ru/resources/hsocialbotsrewards-plagin-na-nagradu-za-podpisku-na-tgk-dsk-i-vk-gruppy.4495/) | Minecraft rewards for joining Telegram, VK and Discord communities. |
+| [**hStaffWork**](https://spigotmc.ru/resources/hstaffwork-hpvp-papi-luckperms-litebans-i-mnogo-chego-eschjo-podderzhivaetsja.5089/) | Staff shifts, moderation statistics, player checks and a web panel. |
+| [**hZamokEvent**](https://spigotmc.ru/resources/hzamokevent-uzhe-izvestnyj-vsem-plagin-na-zamok-no-s-novymi-fichami.5993/) | Multi-stage castle event with capture points, rewards, loot and participant rankings. |
 
-### [hAirdrops ↗](https://spigotmc.ru/resources/hairdrops-1-21-26-x-folia-papi-itemsadder-nexo-mythicmobs-i-mnogo-chego-eschjo-podderzhivaetsja.5262/)
-A configurable airdrop and server-event builder: custom stages, bosses, schematics, schedules, loot and in-game editors. Supports Folia and integrations with other plugins.
-
-### [hSocialBotsRewards ↗](https://spigotmc.ru/resources/hsocialbotsrewards-plagin-na-nagradu-za-podpisku-na-tgk-dsk-i-vk-gruppy.4495/)
-Connects Minecraft with Telegram, VK and Discord. Checks community membership and issues configurable rewards, with repeat-claim restrictions and queued rewards for offline players.
-
-### [hStaffWork ↗](https://spigotmc.ru/resources/hstaffwork-hpvp-papi-luckperms-litebans-i-mnogo-chego-eschjo-podderzhivaetsja.5089/)
-Staff shifts, moderation statistics, player checks and reports in one system. Includes a web panel, TOTP two-factor authentication and SQLite/MySQL storage.
-
-### [hZamokEvent ↗](https://spigotmc.ru/resources/hzamokevent-uzhe-izvestnyj-vsem-plagin-na-zamok-no-s-novymi-fichami.5993/)
-A multi-stage castle event with capture points, currency rewards, waves of loot shulkers and participant rankings. Automatic schematic placement and configurable scheduling.
-
-**Beyond plugins:** one private Minecraft server fork based on **Leaf**, not yet published.
+I have also developed a **private Minecraft server fork based on Leaf**. It has not been published yet.
 
 ## Technology stack
 
-**Languages & build tools**  
-`Java 8+` `Python` `Maven` `Gradle`
-
-**Minecraft platforms & proxies**  
-`Paper` `Spigot` `Folia` `Bukkit` `Velocity` `BungeeCord`
-
-**Data & storage**  
-`MySQL` `PostgreSQL` `SQLite` `H2` `Redis`
-
-**Configuration & internals**  
-`YAML` `NMS`
-
-## Development priorities
-
-**Performance.** Reduce unnecessary server work without sacrificing functionality.
-
-**Flexibility.** Configurable behavior, mechanics and integrations — not just editable messages.
-
-**Functionality.** Build around the server’s requirements rather than the limits of a template.
-
-## Find hPlugin
-
-[SpigotMC.org](https://www.spigotmc.org/resources/authors/dsad12d.2078385/) &nbsp;·&nbsp; [SpigotMC.ru](https://spigotmc.ru/resources/authors/he3haukax.64362/) &nbsp;·&nbsp; [Modrinth](https://modrinth.com/user/He3HaukaX) &nbsp;·&nbsp; [GitHub](https://github.com/2twofactorauth3-star?tab=repositories)
-
-Releases and announcements: **[@hplugin](https://t.me/hplugin)**.
+| Area | Technologies |
+| :--- | :--- |
+| Languages & build tools | `Java 8+` · `Python` · `Maven` · `Gradle` |
+| Server platforms | `Paper` · `Spigot` · `Folia` · `Bukkit` |
+| Proxies | `Velocity` · `BungeeCord` |
+| Databases | `MySQL` · `PostgreSQL` · `SQLite` · `H2` |
+| Additional tools & internals | `Redis` · `YAML` · `NMS` |
 
 ## Custom development
 
-**I accept development commissions.** Custom plugins, integrations and improvements to existing systems — contact **[@he3haukaX](https://t.me/he3haukaX)** on Telegram.
+**Open for commissions:** custom plugins, server mechanics, integrations and improvements to existing systems.
 
----
+Discuss a project — **[@he3haukaX](https://t.me/he3haukaX)**.  
+hPlugin releases and updates — **[@hplugin](https://t.me/hplugin)**.
 
-<p align="center"><strong>hPlugin</strong> &nbsp; / &nbsp; Performance. Flexibility. Functionality.</p>
-
-<p align="center"><strong>EN</strong> &nbsp;·&nbsp; <a href="./README_RU.md">RU</a></p>
+[SpigotMC.org](https://www.spigotmc.org/resources/authors/dsad12d.2078385/) · [SpigotMC.ru](https://spigotmc.ru/resources/authors/he3haukax.64362/) · [Modrinth](https://modrinth.com/user/He3HaukaX) · [GitHub](https://github.com/2twofactorauth3-star?tab=repositories)
